@@ -1,0 +1,8 @@
+This is educational project
+
+link to the framework = https://codecept.io
+
+After downloading the project, you need to run "npm install" command from the same folder as the project
+
+command to run all tests - npx codeceptjs run
+command to run a specific test - npx codeceptjs run --grep "test name here"
